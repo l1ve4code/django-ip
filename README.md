@@ -6,7 +6,7 @@
 
 [Лэндинг проекта](http://landing.std-926.ist.mospolytech.ru)
 
-[Ссылка на рабочую версию](Локальный сервер)
+[Ссылка на рабочую версию](ip-2021.std-926.ist.mospolytech.ru)
 
 [Ссылка на документацию/ видео](https://drive.google.com/drive/folders/1BpbDnRJ9BwmLiVbUdePnTdIxlnX8WmKi?usp=sharing)
 
