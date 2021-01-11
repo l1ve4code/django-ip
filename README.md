@@ -8,6 +8,8 @@
 
 [Ссылка на рабочую версию](Локальный сервер)
 
+[Ссылка на документацию/ видео](https://drive.google.com/drive/folders/1BpbDnRJ9BwmLiVbUdePnTdIxlnX8WmKi?usp=sharing)
+
 Задачи:
 
 | №1  | Этап                                                                                                                                 | Ориентировочное время (часов) |
