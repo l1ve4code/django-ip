@@ -3,6 +3,9 @@ from django.urls import path, include
 from .views import *
 
 urlpatterns = [
+  path('', home),
+  path('logic1', logic1),
+  path('logic2', logic2),
   # Rayoni
   path('rayoni/create/', RayoniCreateView.as_view()),
   path('rayoni/all/', RayoniListView.as_view()),

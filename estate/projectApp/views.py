@@ -4,6 +4,19 @@ from .serializers import *
 from .models import *
 # Create your views here.
 
+# Simple pages
+
+def home(request):
+  return render(request, "projectApp/index.html")
+
+def logic1(request):
+  lo = Predlozheniya.objects.all()
+  return render(request, "projectApp/first.html", {"lo": lo})
+
+def logic2(request):
+  to = Tariphy.objects.all()
+  return render(request, "projectApp/second.html", {"to": to})
+
 # Rayoni
 
 class RayoniCreateView(generics.CreateAPIView):
