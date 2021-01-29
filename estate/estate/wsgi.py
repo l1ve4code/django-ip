@@ -1,5 +1,5 @@
 """
-WSGI config for estate project.
+WSGI config for ip project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
